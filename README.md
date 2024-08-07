@@ -36,4 +36,4 @@ A full-stack application using TypeScript, Next.js, Express, Node.js, and MongoD
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me via [LinkedIn]((https://www.linkedin.com/in/yazan-othman-b53740b5/) or [Email](othman.yazan@gmail.com).
+Feel free to reach out to me via ([LinkedIn](https://www.linkedin.com/in/yazan-othman-b53740b5/) or [Email](othman.yazan@gmail.com).
