@@ -18,13 +18,16 @@ A React web application that offers a seamless shopping experience by displaying
 A feature-rich React web application designed for exploring and booking resort accommodations. The app displays a comprehensive list of rooms, allowing users to view detailed information about each room, including amenities and availability. Integrated with Contentful, a powerful headless CMS, the application enables real-time updates of room data and content. The app also includes a dynamic filter functionality, allowing users to easily search for rooms based on type, space, and available perks to find the perfect accommodation.
 
 ### 📉 Pantry Tracker
-A full-stack application using TypeScript, Next.js, Express, Node.js, and MongoDB. It is designed to help users manage their pantry inventory efficiently. Users can easily add, delete, and update the quantity of products, with items automatically organized by category for streamlined management.
+A full-stack application using TypeScript, Reactjs, Express, Node.js, and MongoDB. It is designed to help users manage their pantry inventory efficiently. Users can easily add, delete, and update the quantity of products, with items automatically organized by category for streamlined management.
+
+### 🤖 AIthlete
+A full-stack application using Next.js, Tailwind CSS, Gemini API and Clerk for user authentication. It is an advanced AI assistant designed to help users with workout plans, diet strategies, achieving weight goals, nutritional advice, and more.
 
 
 ## 🛠️ Skills
 
 - **Languages**:  JavaScript, TypeScript, HTML, CSS
-- **Frameworks**: React, Node.js, Express, Angular, 
+- **Frameworks**: React, Node.js, Express, Angular, Nextjs
 - **Tools**: Git, Jira, Azure
 - **Databases**: MongoDB 
 
