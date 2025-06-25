@@ -7,7 +7,7 @@
 
 </div>
 
-Welcome to my GitHub profile! I'm a passionate front-end developer with a keen interest in web development, solving world problems , and cutting-edge technologies. Based in Malaysia, I've been on a journey of continuous learning and growth.
+Welcome to my GitHub profile! I'm a passionate Senior Front-end Developer with a keen interest in web development, solving world problems , and cutting-edge technologies. Based in Malaysia, I've been on a journey of continuous learning and growth.
 
 ## 🚀 Projects
 
